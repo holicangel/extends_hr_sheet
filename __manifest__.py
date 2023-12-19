@@ -8,6 +8,7 @@
 'depends': ['hr_expense'],
 'data' : [
     'views/extended_hr_expense_sheet_view.xml',
+    'views/extended_hr_expense_report.xml',
 
         ],
 'installable': True,
